@@ -1,6 +1,5 @@
 /**
- * TicTacToe by Joe
- * @author: Iosif Miclaus
+ * @author iosif miclaus
  */
 
 boolean redrawGame;
