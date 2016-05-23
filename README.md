@@ -1,2 +1,2 @@
-# tictactoe
-A simple remake of the game Tic-Tac-Toe.
+# TicTacToe
+A simple remake of the game TicTacToe.
